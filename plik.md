@@ -1,10 +1,10 @@
-# jeszcze nowszyy
-# już troche starszy
-jednak nie
-Ala ma kota
-Kot ma Alę
-Kot nie lubi Al
+#Pierwsze liniki w c++
 
-Znowu haha
+#include <iosstream>
+using namespace std;
 
-haha
+int main() {
+
+	cout << "Hello, World!";
+	return 0;
+} 
