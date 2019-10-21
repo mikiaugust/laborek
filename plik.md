@@ -1,4 +1,4 @@
-#Pierwsze liniki w c++
+#C++
 
 #include <iosstream>
 
